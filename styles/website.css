@@ -10,6 +10,10 @@ h3#httpssmoczyskogitbooksiogit-guts-repository-preworkcontent {
     display: block;
 }
 
+div[class*="prework"] {
+    max-width: 600px;
+}
+
 p {
     text-align: justify;
 }
