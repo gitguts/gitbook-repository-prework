@@ -1,3 +1,20 @@
-# My Awesome Book
+# GIT GUTS: repozytorium (prework)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+
+
+```js
+{
+    organizers: [{
+        name: "infoShare Academy",
+        website: "https://infoshareacademy.com"
+    }, {
+       name: "Cloud Corridor",
+       website: "https://www.cloudcorridor.com"
+   }]
+}
+```
+
+
+### https://smoczysko.gitbooks.io/git-guts-repository-prework/content/
