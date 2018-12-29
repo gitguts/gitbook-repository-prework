@@ -4,7 +4,7 @@ Aby móc wziąć udział w warsztatach należy mieć zainstalowanego klienta sys
 
 Dodatkowo w celu wykonywania ćwiczeń w trakcie warsztatów niezbędne będzie posiadanie interaktywnej konsoli Ruby (a co za tym idzie narzędzi języka Ruby). Instrukcję instalacji można znaleźć m.in. w [oficjalnej dokumentacji](https://www.ruby-lang.org/en/documentation/installation/).
 
-## Prework
+## Zadanie
 
 Po pomyślnym zainstalowaniu obu aplikacji należy w wierszu poleceń wprowadzić następujące polecenia:
 
